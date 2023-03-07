@@ -1,2 +1,2 @@
 # Capstone-Project
-Machine Learning
+Image Clasiification Using Neural Network.
